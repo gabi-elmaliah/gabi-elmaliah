@@ -42,7 +42,7 @@
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-elmaliah&layout=compact&theme=light&langs_count=6"/>
 </p>
 
