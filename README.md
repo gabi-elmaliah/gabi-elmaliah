@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 My Skill Set
+## My Skill Set
 
 ### **Programming Languages & Frameworks**
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 🌍 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://github.com/gabi-elmaliah" target="_blank">
